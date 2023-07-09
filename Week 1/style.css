@@ -1,0 +1,21 @@
+body{
+    background-color:#D8A7B1;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#demobutton{
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height:40px;
+    font-size: 15px;
+    border: 1px whitesmoke outset;
+   box-shadow: 2px 2px 2px lightblue;
+    
+    
+}
+
+#demobutton:hover{
+background-color: black;
+}
